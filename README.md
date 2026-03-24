@@ -82,7 +82,7 @@ Seja criativo!
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
 1. Repositório selecionado: [https://github.com/expo/expo](https://github.com/expo/expo)
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: ![alt text](https://github.com/JNDJ0/exploring-code-evolution/blob/main/untypedxtyped_variables_graph.png)
 3. Explicação: <EXPLICACAO_AQUI>
 
 
