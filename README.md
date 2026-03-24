@@ -83,7 +83,6 @@ Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
 1. Repositório selecionado: [https://github.com/expo/expo](https://github.com/expo/expo)
 2. Gráfico selecionado: ![alt text](https://github.com/JNDJ0/exploring-code-evolution/blob/main/untypedxtyped_variables_graph.png)
-3. Explicação: <EXPLICACAO_AQUI>
-
+3. Explicação: o gráfico escolhido trata sobre a evolução do uso de variáveis tipadas versus não tipadas ao longo dos anos no repositório do Expo, um framework Typescript para a execução de aplicações web e mobile. Este gráfico é relevante por comparar a utilização entre variáveis tipadas e não tipadas no repositório. Observa-se um crescimento acentuado no volume total de código, com as variáveis tipadas crescendo de forma menos expressiva (saindo de quase 0 para cerca de 4.000), enquanto as não tipadas dispararam, praticamente quintuplicando no período observado. Isto pode ser interpretado como uma má prática, pois os desenvolvedores não estão utilizando da principal vantagem do TypeScript em relação ao seu antecessor: a tipagem. Apesar de não ser obrigatório, o uso de tipos auxilia na organização do código e na melhor interpretação de erros, o que facilita o trabalho de desenvolvedores futuros do projeto, que é open source. A dívida técnica de tipos cresce mais rápido que a documentação via código, o que pode indicar uma priorização de velocidade de entrega em detrimento da robustez e manutenibilidade a longo prazo.
 
 
